@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/speed-math/static/css/main.02493df8.css",
+    "main.css": "/speed-math/static/css/main.1478c20d.css",
     "main.js": "/speed-math/static/js/main.939148bd.js",
     "static/js/453.1c9f2cd3.chunk.js": "/speed-math/static/js/453.1c9f2cd3.chunk.js",
     "static/media/favicon.ico": "/speed-math/static/media/favicon.8a177e825aab41b18fe0.ico",
     "index.html": "/speed-math/index.html",
-    "main.02493df8.css.map": "/speed-math/static/css/main.02493df8.css.map",
+    "main.1478c20d.css.map": "/speed-math/static/css/main.1478c20d.css.map",
     "main.939148bd.js.map": "/speed-math/static/js/main.939148bd.js.map",
     "453.1c9f2cd3.chunk.js.map": "/speed-math/static/js/453.1c9f2cd3.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.02493df8.css",
+    "static/css/main.1478c20d.css",
     "static/js/main.939148bd.js"
   ]
 }
